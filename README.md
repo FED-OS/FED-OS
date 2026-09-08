@@ -34,92 +34,14 @@
 
 ## 👨‍💻 About FED-OS
 
-<div align="">
-
 ```python
 #!/usr/bin/env python3
 
 class FEDOS:
     """
-    FED-OS — Open-Source Ecosystem for Browser-Native AI Tools.
+    FED-OS — Open-Source Ecosystem for Browser-Native AI Tools
     """
-    def __init__(self):
-        self.location   = "📍 Everywhere — 100% Open Source"
-        self.repos      = "44 Public Repositories"
-        self.ecosystem  = "Browser-Native AI · Cross-Platform Publishing"
-        self.status     = "🚀 Always Building"
 
-        self.currentStack = {
-            "Languages" : ["Python 3.12", "JavaScript (ES6+)", "HTML5", "CSS3"],
-            "Frameworks": ["Electron", "Tauri", "Streamlit"],
-            "AI & Tools": ["Offline TTS", "Grammarly-style Editor", "Browser Extensions"],
-            "DevOps"    : ["GitHub Actions", "Docker", "Vercel", "Netlify"],
-            "Focus"     : ["AI Integration", "Universal Wrappers", "PWA"]
-        }
-
-        self.flagship_projects = [
-            "🛕 FED-TEMPLE — 3D Cathedral from contributions",
-            "📡 Fed-Poster — Multi-platform publishing",
-            "🏗️ FED-SHELL — Universal URL wrapper",
-            "🎙️ FED-TTS — Offline TTS + Grammarly clone",
-            "🌊 Surf-FED — Electron browser with Chrome extensions",
-            "🔁 Fed-Dup — Database-free Git mirroring"
-        ]
-
-        self.website = "🌐 fedpromptly.com"
-        self.email   = "📧 business@fedpromptly.com"
-        self.discord = "💬 discord.gg/JBSE9wN2kA"
-
-    def currently_building(self) -> str:
-        return "Browser-native AI · Universal wrappers · Cross-platform publishing"
-
-# Boot the system
-fed = FEDOS()
-print(f"{fed.website} · {fed.email}")
-
-# 🚀 FED‑OS
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=FED-OS&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20a%20Browser-Native%20AI%20Ecosystem&descAlignY=55&descSize=16"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Open-Source+Ecosystem+Builder;Browser-Native+AI+Tools;Cross-Platform+Publishing;Electron+%7C+Python+%7C+JavaScript;Always+Shipping+%F0%9F%9A%80&font=Fira+Code&color=6c5ce7&center=true&width=500&height=55&size=18&pause=800"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FED-OS&label=Profile+Views&color=6c5ce7&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://discord.gg/JBSE9wN2kA">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Fedpromptly">
-    <img src="https://img.shields.io/badge/Org-@Fedpromptly-181717?style=for-the-badge&logo=github&logoColor=white" alt="Organization"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge" alt="Open Source"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FED-OS&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=10" alt="Trophies"/>
-</p>
-
----
-
-## 👨‍💻 About FED‑OS
-
-```python
-#!/usr/bin/env python3
-
-class FEDOS:
-    """
-    FED‑OS — Open‑Source Ecosystem for Browser‑Native AI Tools
-    """
     def __init__(self):
         self.name = "FED-OS"
         self.tagline = "Building the future of browser-native AI"
@@ -169,6 +91,7 @@ class FEDOS:
     def __repr__(self):
         return f"<FED-OS: {len(self.flagship_projects)} active projects, {self.followers} follower>"
 
+
 # Initialize the ecosystem
 fed = FEDOS()
 print(fed)
@@ -178,106 +101,203 @@ print(fed)
 
 ## 🚀 Quick Facts
 
-| 🔭 **Flagship Project** | [FED‑TEMPLE](https://github.com/FED-OS/FED-TEMPLE-interactive-3D-cathedral) — 3D Cathedral from contributions |
-|-------------------------|-------------------------------------------------------------------------------------------------------------|
-| 🌱 **Currently Building** | Browser‑native AI tools · Universal wrappers · Cross‑platform publishing                                   |
-| 👨‍💻 **All Repositories** | [github.com/FED-OS](https://github.com/FED-OS?tab=repositories)                                             |
-| 💬 **Ask me about**     | Electron · Python · Streamlit · GitHub Actions · Browser Extensions · AI                                     |
-| 📫 **Community**        | [Discord](https://discord.gg/JBSE9wN2kA)  |  [business@fedpromptly.com](mailto:business@fedpromptly.com) |
-| 🌐 **Website**          | [fedpromptly.com](https://www.fedpromptly.com)                                                               |
-| 📍 **Ecosystem**        | 100% Open Source · MIT Licensed                                                                              |
+|                            |                                                                                                               |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 🔭 **Flagship Project**    | [FED-TEMPLE](https://github.com/FED-OS/FED-TEMPLE-interactive-3D-cathedral) — 3D Cathedral from contributions |
+| 🌱 **Currently Building**  | Browser-native AI tools · Universal wrappers · Cross-platform publishing                                      |
+| 👨‍💻 **All Repositories** | [github.com/FED-OS](https://github.com/FED-OS?tab=repositories)                                               |
+| 💬 **Ask me about**        | Electron · Python · Streamlit · GitHub Actions · Browser Extensions · AI                                      |
+| 📫 **Community**           | [Discord](https://discord.gg/JBSE9wN2kA) | [business@fedpromptly.com](mailto:business@fedpromptly.com)        |
+| 🌐 **Website**             | [fedpromptly.com](https://www.fedpromptly.com)                                                                |
+| 📍 **Ecosystem**           | 100% Open Source · MIT Licensed                                                                               |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="48" height="48" alt="Electron"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" width="48" height="48" alt="Tauri"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit"/>
-</p>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="48" height="48" alt="Electron"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" width="48" height="48" alt="Tauri"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit"/>
+
+</div>
 
 ### DevOps & Automation
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+
+</div>
 
 ---
 
 ## 🌟 Flagship Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🛕 **FED‑TEMPLE** | Interactive 3D cathedral from GitHub contributions | JavaScript, Three.js |
-| 📡 **Fed‑Poster** | Multi‑platform publishing (write once, post everywhere) | Python, APIs |
-| 🏗️ **FED‑SHELL** | Universal URL wrapper + GitHub Actions builder | JavaScript, Actions |
-| 🎙️ **FED‑TTS** | Offline TTS + Read Aloud + Grammarly clone | Python, Streamlit |
-| 🌊 **Surf‑FED** | Electron browser with Chrome extension support | Electron, JS |
-| 🔁 **Fed‑Dup** | Database‑free Git mirroring engine | Python, Streamlit |
+| Project           | Description                                             | Tech                 |
+| ----------------- | ------------------------------------------------------- | -------------------- |
+| 🛕 **FED-TEMPLE** | Interactive 3D cathedral from GitHub contributions      | JavaScript, Three.js |
+| 📡 **Fed-Poster** | Multi-platform publishing (write once, post everywhere) | Python, APIs         |
+| 🏗️ **FED-SHELL** | Universal URL wrapper + GitHub Actions builder          | JavaScript, Actions  |
+| 🎙️ **FED-TTS**   | Offline TTS + Read Aloud + Grammarly clone              | Python, Streamlit    |
+| 🌊 **Surf-FED**   | Electron browser with Chrome extension support          | Electron, JS         |
+| 🔁 **Fed-Dup**    | Database-free Git mirroring engine                      | Python, Streamlit    |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FED-OS&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FED-OS&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FED-OS&theme=tokyonight&hide_border=true" width="70%" alt="Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=FED-OS&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FED-OS&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Languages"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FED-OS&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FED-OS&theme=tokyonight&hide_border=true" width="70%" alt="Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FED-OS&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
+
+</div>
 
 ---
 
 ## 🌐 Community & Social
 
-<p align="center">
-  <a href="https://www.fedpromptly.com"><img src="https://img.shields.io/badge/Website-fedpromptly.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="https://discord.gg/JBSE9wN2kA"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://ko-fi.com/fedpromptly"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/></a>
-  <a href="https://bsky.app/profile/fedjumper22.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@fedjumper22-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
-  <a href="mailto:business@fedpromptly.com"><img src="https://img.shields.io/badge/Email-business@fedpromptly.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Fedpromptly"><img src="https://img.shields.io/badge/GitHub-@Fedpromptly-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Org"/></a>
-</p>
+<div align="center">
+
+<a href="https://www.fedpromptly.com">
+  <img src="https://img.shields.io/badge/Website-fedpromptly.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+
+<a href="https://discord.gg/JBSE9wN2kA">
+  <img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+<a href="https://ko-fi.com/fedpromptly">
+  <img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/>
+</a>
+
+<a href="https://www.patreon.com/cw/Viraldancandofunk">
+  <img src="https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+</a>
+
+<a href="https://bsky.app/profile/fedjumper22.bsky.social">
+  <img src="https://img.shields.io/badge/Bluesky-@fedjumper22-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
+</a>
+
+<a href="mailto:business@fedpromptly.com">
+  <img src="https://img.shields.io/badge/Email-business@fedpromptly.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/Fedpromptly">
+  <img src="https://img.shields.io/badge/GitHub-@Fedpromptly-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Org"/>
+</a>
+
+</div>
 
 ---
 
 ## ☕ Support the Ecosystem
 
-<p align="center">
-  <a href="https://ko-fi.com/fedpromptly">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/sponsors/FED-OS">
-    <img src="https://img.shields.io/badge/Sponsor%20FED--OS-❤️-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" height="50" alt="Sponsor"/>
-  </a>
+<div align="center">
+
+<p>
+  Fed-Poster is free, open-source, MIT-licensed software with no venture
+  funding and no in-app telemetry. Maintenance, new platform integrations,
+  and theme design are funded by the community.
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=100&section=footer&animation=twinkling"/>
+<p>
+  If Fed-Poster saves you time, consider supporting the ecosystem. 🧡
 </p>
+
+<a href="https://github.com/sponsors/FED-OS">
+  <img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20FED--OS-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" height="40" alt="GitHub Sponsors"/>
+</a>
+
+ 
+
+<a href="https://ko-fi.com/fedpromptly">
+  <img src="https://img.shields.io/badge/Ko--fi-@fedpromptly-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" height="40" alt="Ko-fi"/>
+</a>
+
+ 
+
+<a href="https://ko-fi.com/W3T61ZU5FS">
+  <img src="https://img.shields.io/badge/Ko--fi-Community%20Support-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" height="40" alt="Ko-fi Community"/>
+</a>
+
+ 
+
+<a href="https://www.patreon.com/cw/Viraldancandofunk">
+  <img src="https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="40" alt="Patreon"/>
+</a>
+
+ 
+
+<a href="https://fedpromptly.com">
+  <img src="https://img.shields.io/badge/FedPromptly-Visit%20Website-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="FedPromptly"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🧡 Every contribution helps keep FED-OS open source.
+
+**Free software · MIT Licensed · Community Funded · No In-App Telemetry**
+
+</div>
+
+---
+
+## 💰 Funding Configuration
+
+For the repository's `.github/FUNDING.yml`, use:
+
+```yaml
+# GitHub Sponsors / funding configuration
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+# Fed-Poster is a free, open-source, MIT-licensed project with no venture
+# funding and no in-app telemetry. Maintenance, new platform integrations,
+# and theme design are funded by the community. If Fed-Poster saves you
+# time, consider supporting one of the channels below. Thank you! 🧡
+
+github: FED-OS
+ko_fi: fedpromptly
+patreon: Viraldancandofunk
+
+custom:
+  - https://fedpromptly.com
+  - https://ko-fi.com/W3T61ZU5FS
 ```
 
 ---
 
-This version:
-- Uses **only safe, well‑closed HTML tags** (the `<p align="center">` ones that GitHub supports).
-- Keeps the badges and dynamic SVGs intact.
-- Organizes everything with tables and code blocks for clarity.
-- Should render perfectly on your GitHub profile.
-
-If you still see any issues, let me know which part breaks and I’ll fix it on the spot. Sorry again for the earlier mess — thanks for your patience! 🙏
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=100&section=footer&animation=twinkling"/>
+</div>
