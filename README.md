@@ -1,99 +1,69 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=FED-OS&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20a%20Browser-Native%20AI%20Ecosystem&descAlignY=55&descSize=16"/>
-</div>
+# FED‑OS
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Open-Source+Ecosystem+Builder;Browser-Native+AI+Tools;Cross-Platform+Publishing;Electron+%7C+Python+%7C+JavaScript;Always+Shipping+%F0%9F%9A%80&font=Fira+Code&color=6c5ce7&center=true&width=500&height=55&size=18&pause=800"/>
-</div>
+**Building an open‑source ecosystem for browser‑native AI tools and cross‑platform publishing.**
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FED-OS&label=Profile+Views&color=6c5ce7&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://discord.gg/JBSE9wN2kA">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Fedpromptly">
-    <img src="https://img.shields.io/badge/Org-@Fedpromptly-181717?style=for-the-badge&logo=github&logoColor=white" alt="Organization"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge" alt="Open Source"/>
-</div>
-
-<br/>
+[Website](https://www.fedpromptly.com) · [Discord](https://discord.gg/JBSE9wN2kA) · [Ko‑fi](https://ko-fi.com/fedpromptly) · [Bluesky](https://bsky.app/profile/fedjumper22.bsky.social)
 
 ---
 
-## 🏆 GitHub Trophies
+## About
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FED-OS&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=10" alt="Trophies"/>
-</div>
+FED‑OS is a collection of tools, wrappers, and applications that aim to make AI and publishing work **natively in the browser**, offline‑first, and completely open source.
+
+- **44 repositories** — all public
+- **2 stars** (so far – we’re just getting started)
+- **1 follower**, **4 following** – we’re a small team with big ideas
+
+We believe in:
+- Browser‑native AI that doesn’t phone home
+- Write‑once, post‑everywhere publishing
+- Universal web app distribution
+- Open infrastructure for creators
 
 ---
 
-## 👨‍💻 About FED-OS
+## Flagship Projects
 
-<div align="">
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [FED‑TEMPLE](https://github.com/FED-OS/FED-TEMPLE-interactive-3D-cathedral) | Turns your GitHub contribution history into a 3D cathedral. Commits = bricks, stars = golden tiles, forks = pillars. | JavaScript, Three.js |
+| [Fed‑Poster](https://github.com/FED-OS/Fed-Poster-multi-platform-publishing) | Write a message once, publish to multiple social platforms instantly. | Python, APIs |
+| [FED‑SHELL](https://github.com/FED-OS/FED-SHELL-build-apps-and-web-extensions) | Universal URL wrapper – feed it a URL and a GitHub Actions run, get a built app or extension. | JavaScript, GitHub Actions |
+| [FED‑TTS](https://github.com/FED-OS/FED-TTS-Text-to-Speech-Transcriber) | Offline Text‑to‑Speech + Read Aloud + Grammarly‑style editor. 100% offline, zero AI. | Python, Streamlit |
+| [Surf‑FED](https://github.com/FED-OS/Surf-FED-electron-tauri-browser) | A lightweight Electron browser that supports Chrome extensions (Manifest V2/V3) out of the box. | Electron, JavaScript |
+| [Fed‑Dup](https://github.com/FED-OS/FED-Dup-Federated-Repository-Duplication) | Database‑free Git mirroring tool – duplicates repos to a backup host. | Python, Streamlit |
 
-```python
-#!/usr/bin/env python3
+---
 
-class FEDOS:
-    """
-    FED-OS — Open-Source Ecosystem for Browser-Native AI Tools
-    """
-    def __init__(self):
-        self.name = "FED-OS"
-        self.tagline = "Building the future of browser-native AI"
-        self.organization = "@Fedpromptly"
-        self.followers = 1
-        self.following = 4
-        self.repositories = 44
-        self.stars = 2
+## Tech Stack
 
-    @property
-    def mission(self):
-        return [
-            "Browser-native AI tools that work offline",
-            "Cross-platform publishing for everyone",
-            "Universal web app distribution",
-            "Open-source infrastructure for creators"
-        ]
+- **Languages**: Python, JavaScript, HTML, CSS  
+- **Frameworks**: Electron, Tauri, Streamlit  
+- **Tools**: GitHub Actions, Git, Vercel, Netlify  
+- **Focus**: AI integration, browser extensions, progressive web apps
 
-    @property
-    def flagship_projects(self):
-        return {
-            "FED-TEMPLE": "3D Cathedral from GitHub contributions",
-            "Fed-Poster": "Multi-platform social publishing",
-            "FED-SHELL": "Universal URL wrapper & build system",
-            "FED-TTS": "Offline Text-to-Speech + Grammarly clone",
-            "Surf-FED": "Electron browser with Chrome extension support",
-            "Fed-Dup": "Database-free Git mirroring engine"
-        }
+---
 
-    @property
-    def tech_stack(self):
-        return {
-            "Languages": ["Python", "JavaScript", "HTML", "CSS"],
-            "Frameworks": ["Electron", "Tauri", "Streamlit"],
-            "Tools": ["GitHub Actions", "Git", "Vercel", "Netlify"],
-            "Focus": ["AI Integration", "Browser Extensions", "PWA"]
-        }
+## GitHub Stats
 
-    def get_community(self):
-        return {
-            "Discord": "https://discord.gg/JBSE9wN2kA",
-            "Ko-fi": "https://ko-fi.com/fedpromptly",
-            "Bluesky": "@fedjumper22.bsky.social",
-            "Email": "business@fedpromptly.com"
-        }
+![FED-OS Stats](https://github-readme-stats.vercel.app/api?username=FED-OS&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FED-OS&layout=compact&theme=dark&hide_border=true)
 
-    def __repr__(self):
-        return f"<FED-OS: {len(self.flagship_projects)} active projects, {self.followers} follower>"
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FED-OS&theme=dark&hide_border=true)
 
-# Initialize the ecosystem
-fed = FEDOS()
-print(fed)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FED-OS&theme=github-dark&hide_border=true)
+
+---
+
+## Get Involved
+
+- **Join the Discord** – [https://discord.gg/JBSE9wN2kA](https://discord.gg/JBSE9wN2kA)  
+- **Support us on Ko‑fi** – [https://ko-fi.com/fedpromptly](https://ko-fi.com/fedpromptly)  
+- **Email** – business@fedpromptly.com  
+- **Organisation** – [https://github.com/Fedpromptly](https://github.com/Fedpromptly)
+
+All projects are open source and MIT licensed. Contributions, issues, and feature requests are always welcome.
+
+---
+
+*Last updated: September 2026*
