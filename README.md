@@ -26,9 +26,7 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FED-OS&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=10" alt="Trophies"/>
-</div>
+<img width="1536" height="1024" alt="2a4f63e8-df2c-4f17-b2d4-4bb677c28ef7" src="https://github.com/user-attachments/assets/a2960881-4a65-4f62-b42a-0da0dc24fcef" />
 
 ---
 
