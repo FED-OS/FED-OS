@@ -1,12 +1,82 @@
-No worries — you're right, the HTML in that markdown was a mess. Some tags weren't properly closed, the alignment broke, and it probably didn't render cleanly on GitHub. I should have tested it better.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=FED-OS&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20a%20Browser-Native%20AI%20Ecosystem&descAlignY=55&descSize=16"/>
+</div>
 
-Let me give you a **clean, properly formatted** version that works as a `README.md` for your **FED‑OS** GitHub profile. I've stripped out all the risky HTML, kept only what GitHub supports, and made sure every tag is balanced.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Open-Source+Ecosystem+Builder;Browser-Native+AI+Tools;Cross-Platform+Publishing;Electron+%7C+Python+%7C+JavaScript;44+Repositories+%26+Growing!&font=Fira+Code&color=6c5ce7&center=true&width=480&height=55&size=18&pause=800" />
+</div>
 
-Here’s the corrected file — copy this into your profile README:
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FED-OS&label=Ecosystem+Views&color=6c5ce7&style=for-the-badge" alt="Ecosystem Views"/>
+  &nbsp;
+  <a href="https://discord.gg/JBSE9wN2kA">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge" alt="Open Source"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Repositories-44-7c3aed?style=for-the-badge" alt="Repos"/>
+</div>
+
+<br/>
 
 ---
 
-```markdown
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FED-OS&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=10" alt="Trophies"/>
+</div>
+
+---
+
+## 👨‍💻 About FED-OS
+
+<div align="">
+
+```python
+#!/usr/bin/env python3
+
+class FEDOS:
+    """
+    FED-OS — Open-Source Ecosystem for Browser-Native AI Tools.
+    """
+    def __init__(self):
+        self.location   = "📍 Everywhere — 100% Open Source"
+        self.repos      = "44 Public Repositories"
+        self.ecosystem  = "Browser-Native AI · Cross-Platform Publishing"
+        self.status     = "🚀 Always Building"
+
+        self.currentStack = {
+            "Languages" : ["Python 3.12", "JavaScript (ES6+)", "HTML5", "CSS3"],
+            "Frameworks": ["Electron", "Tauri", "Streamlit"],
+            "AI & Tools": ["Offline TTS", "Grammarly-style Editor", "Browser Extensions"],
+            "DevOps"    : ["GitHub Actions", "Docker", "Vercel", "Netlify"],
+            "Focus"     : ["AI Integration", "Universal Wrappers", "PWA"]
+        }
+
+        self.flagship_projects = [
+            "🛕 FED-TEMPLE — 3D Cathedral from contributions",
+            "📡 Fed-Poster — Multi-platform publishing",
+            "🏗️ FED-SHELL — Universal URL wrapper",
+            "🎙️ FED-TTS — Offline TTS + Grammarly clone",
+            "🌊 Surf-FED — Electron browser with Chrome extensions",
+            "🔁 Fed-Dup — Database-free Git mirroring"
+        ]
+
+        self.website = "🌐 fedpromptly.com"
+        self.email   = "📧 business@fedpromptly.com"
+        self.discord = "💬 discord.gg/JBSE9wN2kA"
+
+    def currently_building(self) -> str:
+        return "Browser-native AI · Universal wrappers · Cross-platform publishing"
+
+# Boot the system
+fed = FEDOS()
+print(f"{fed.website} · {fed.email}")
+
 # 🚀 FED‑OS
 
 <p align="center">
