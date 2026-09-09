@@ -24,6 +24,9 @@
 
 ---
 
+<img width="385" height="405" alt="zdbzdb" src="https://github.com/user-attachments/assets/5e74cab2-1941-4075-8f9a-8534995ebf74" /> <img width="480" height="270" alt="giphy (4)" src="https://github.com/user-attachments/assets/11ada6b7-a72c-4a42-8a7d-caef67634d34" />
+<img width="480" height="480" alt="giphy (5)" src="https://github.com/user-attachments/assets/9f15cd28-aad4-42cf-bb88-520e384ed63f" />
+
 
 ---
 
@@ -272,3 +275,5 @@ custom:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=100&section=footer&animation=twinkling"/>
 </div>
+
+
