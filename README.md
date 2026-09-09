@@ -150,30 +150,6 @@ print(fed)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FED-OS&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FED-OS&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FED-OS&theme=tokyonight&hide_border=true" width="70%" alt="Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FED-OS&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
-
-</div>
 
 ---
 
