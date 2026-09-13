@@ -150,39 +150,7 @@ print(fed)
 
 ---
 
-## 🌐 Community & Social
 
-<div align="center">
-
-<a href="https://www.fedpromptly.com">
-  <img src="https://img.shields.io/badge/Website-fedpromptly.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-</a>
-
-<a href="https://discord.gg/JBSE9wN2kA">
-  <img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-<a href="https://ko-fi.com/fedpromptly">
-  <img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/>
-</a>
-
-<a href="https://www.patreon.com/cw/Viraldancandofunk">
-  <img src="https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
-</a>
-
-<a href="https://bsky.app/profile/fedjumper22.bsky.social">
-  <img src="https://img.shields.io/badge/Bluesky-@fedjumper22-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
-</a>
-
-<a href="mailto:business@fedpromptly.com">
-  <img src="https://img.shields.io/badge/Email-business@fedpromptly.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/Fedpromptly">
-  <img src="https://img.shields.io/badge/GitHub-@Fedpromptly-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Org"/>
-</a>
-
-</div>
 
 ---
 
