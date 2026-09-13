@@ -178,7 +178,6 @@ For the repository's `.github/FUNDING.yml`, use:
 
 github: FED-OS
 ko_fi: fedpromptly
-patreon: Viraldancandofunk
 
 custom:
   - https://fedpromptly.com
