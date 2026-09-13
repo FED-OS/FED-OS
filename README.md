@@ -8,12 +8,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FED-OS&label=Ecosystem+Views&color=6c5ce7&style=for-the-badge" alt="Ecosystem Views"/>
-  &nbsp;
-  <a href="https://discord.gg/JBSE9wN2kA">
-    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge" alt="Open Source"/>
   &nbsp;
