@@ -154,53 +154,6 @@ print(fed)
 
 ---
 
-## ☕ Support the Ecosystem
-
-<div align="center">
-
-<p>
-  Fed-Poster is free, open-source, MIT-licensed software with no venture
-  funding and no in-app telemetry. Maintenance, new platform integrations,
-  and theme design are funded by the community.
-</p>
-
-<p>
-  If Fed-Poster saves you time, consider supporting the ecosystem. 🧡
-</p>
-
-<a href="https://github.com/sponsors/FED-OS">
-  <img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20FED--OS-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" height="40" alt="GitHub Sponsors"/>
-</a>
-
- 
-
-<a href="https://ko-fi.com/fedpromptly">
-  <img src="https://img.shields.io/badge/Ko--fi-@fedpromptly-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" height="40" alt="Ko-fi"/>
-</a>
-
- 
-
-<a href="https://ko-fi.com/W3T61ZU5FS">
-  <img src="https://img.shields.io/badge/Ko--fi-Community%20Support-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" height="40" alt="Ko-fi Community"/>
-</a>
-
- 
-
-<a href="https://www.patreon.com/cw/Viraldancandofunk">
-  <img src="https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="40" alt="Patreon"/>
-</a>
-
- 
-
-<a href="https://fedpromptly.com">
-  <img src="https://img.shields.io/badge/FedPromptly-Visit%20Website-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="FedPromptly"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ### 🧡 Every contribution helps keep FED-OS open source.
 
