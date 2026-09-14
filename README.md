@@ -99,7 +99,7 @@ print(fed)
 | 🌱 **Currently Building**  | Browser-native AI tools · Universal wrappers · Cross-platform publishing                                      |
 | 👨‍💻 **All Repositories** | [github.com/FED-OS](https://github.com/FED-OS?tab=repositories)                                               |
 | 💬 **Ask me about**        | Electron · Python · Streamlit · GitHub Actions · Browser Extensions · AI                                      |
-| 📫 **Community**           | [Discord](https://discord.gg/JBSE9wN2kA) | [business@fedpromptly.com](mailto:business@fedpromptly.com)        |
+| 📫 **Community**           | [Discord](https://discord.gg/za2cNpYrg6) | [business@fedpromptly.com](mailto:business@fedpromptly.com)        |
 | 🌐 **Website**             | [fedpromptly.com](https://www.fedpromptly.com)                                                                |
 | 📍 **Ecosystem**           | 100% Open Source · MIT Licensed                                                                               |
 
