@@ -74,7 +74,7 @@ class FEDOS:
 
     def get_community(self):
         return {
-            "Discord": "https://discord.gg/JBSE9wN2kA",
+            "Discord": "https://discord.gg/za2cNpYrg6",
             "Ko-fi": "https://ko-fi.com/fedpromptly",
             "Bluesky": "@fedjumper22.bsky.social",
             "Email": "business@fedpromptly.com"
