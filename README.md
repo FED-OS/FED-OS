@@ -8,6 +8,7 @@
 
 <br/>
 
+<div align="center">
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge" alt="Open Source"/>
   &nbsp;
@@ -19,7 +20,7 @@
 ---
 
 <div align="center">
-<img width="385" height="405" alt="zdbzdb" src="https://github.com/user-attachments/assets/5e74cab2-1941-4075-8f9a-8534995ebf74" /> 
+  <img width="385" height="405" alt="zdbzdb" src="https://github.com/user-attachments/assets/5e74cab2-1941-4075-8f9a-8534995ebf74" />
 </div>
 
 ---
@@ -99,7 +100,7 @@ print(fed)
 | 🌱 **Currently Building**  | Browser-native AI tools · Universal wrappers · Cross-platform publishing                                      |
 | 👨‍💻 **All Repositories** | [github.com/FED-OS](https://github.com/FED-OS?tab=repositories)                                               |
 | 💬 **Ask me about**        | Electron · Python · Streamlit · GitHub Actions · Browser Extensions · AI                                      |
-| 📫 **Community**           | [Discord](https://discord.gg/za2cNpYrg6) | [business@fedpromptly.com](mailto:business@fedpromptly.com)        |
+| 📫 **Community**           | [Discord](https://discord.gg/za2cNpYrg6) \| [business@fedpromptly.com](mailto:business@fedpromptly.com)        |
 | 🌐 **Website**             | [fedpromptly.com](https://www.fedpromptly.com)                                                                |
 | 📍 **Ecosystem**           | 100% Open Source · MIT Licensed                                                                               |
 
@@ -147,22 +148,6 @@ print(fed)
 
 ---
 
-
----
-
-
-
----
-
-
-### 🧡 Every contribution helps keep FED-OS open source.
-
-**Free software · MIT Licensed · Community Funded · No In-App Telemetry**
-
-</div>
-
----
-
 ## 💰 Funding Configuration
 
 For the repository's `.github/FUNDING.yml`, use:
@@ -187,10 +172,13 @@ custom:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=100&section=footer&animation=twinkling"/>
-</div>
 
-<div align="center">
-<img width="600" height="600" alt="Rainbow mug" src="https://github.com/user-attachments/assets/9cac783d-35a9-4ad9-9207-30e9d1d8bd9f" /> 
-</div>
+### 🧡 Every contribution helps keep FED-OS open source.
 
+**Free software · MIT Licensed · Community Funded · No In-App Telemetry**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=100&section=footer&animation=twinkling"/>
+
+<img width="600" height="600" alt="Rainbow mug" src="https://github.com/user-attachments/assets/9cac783d-35a9-4ad9-9207-30e9d1d8bd9f" />
+
+</div>
